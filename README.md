@@ -1,8 +1,12 @@
 # 📰 AI News Clustering Dashboard
+https://static.streamlit.io/badges/streamlit_badge_black_white.svg
+https://img.shields.io/badge/Python-3.9%252B-blue
+https://img.shields.io/badge/License-MIT-yellow.svg
+https://img.shields.io/badge/Scikit--learn-1.3%252B-orange
 
 An intelligent web application for clustering and analyzing news articles using machine learning algorithms. Automatically categorize, visualize, and gain insights from your news data.
 
-✨ Features
+## ✨ Features
 🤖 AI-Powered Clustering
 K-Means Clustering: Automatically group similar news articles
 
@@ -52,6 +56,5 @@ Configuration Export: Save and reuse clustering settings
 Prerequisites
 Python 3.9 or higher
 
-
-
+pip package manager
 
